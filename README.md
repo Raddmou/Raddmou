@@ -14,6 +14,7 @@ My name is Mourad and I'm a back-end and blockchain developer.
 📫 You can reach me
   - mail: wassakh@gmail.com
   - twitter: @raddmou99 
+  - linkedin: https://www.linkedin.com/in/mourad-mouttaki-85b48a84/
 
 <!--
 **Raddmou/Raddmou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
