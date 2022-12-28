@@ -11,6 +11,10 @@ My name is Mourad and I'm a back-end and blockchain developer.
 
 👯 I will be happy to exchange or collaborate on web3 projects
 
+📫 You can reach me
+  - mail: wassakh@gmail.com
+  - twitter: @raddmou99 
+
 <!--
 **Raddmou/Raddmou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
